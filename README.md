@@ -49,11 +49,11 @@ exception handling (try/except), file handling (CSV), modules/imports, sorting w
 
 ## Team
 Team
-Member	Module
-Vidhi	`priority.py`, `main.py`, `storage.py`
-Mokshika	`attendance.py` (+ `subjects.py`)
-Anshika	`marks.py`
-Palak	`assignments.py`
-Riya	`expenses.py`
+|Member |	Module|
+|Vidhi |	`priority.py`, `main.py`, `storage.py`|
+|Mokshika |	`attendance.py` (+ `subjects.py`)|
+|Anshika |	`marks.py`|
+|Palak |	`assignments.py`|
+|Riya |	`expenses.py`|
 
 
