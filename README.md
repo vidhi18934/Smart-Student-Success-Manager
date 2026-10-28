@@ -48,12 +48,11 @@ Variables, conditionals, loops, functions, lists, dictionaries, tuples, f-string
 exception handling (try/except), file handling (CSV), modules/imports, sorting with key=lambda.
 
 ## Team
-Team
-|Member |	Module|
-|Vidhi |	`priority.py`, `main.py`, `storage.py`|
-|Mokshika |	`attendance.py` (+ `subjects.py`)|
-|Anshika |	`marks.py`|
-|Palak |	`assignments.py`|
-|Riya |	`expenses.py`|
-
+| Member | Module |
+|---|---|
+| Vidhi (group leader) | `priority.py`, `main.py`, `storage.py` |
+| Mokshika | `attendance.py` (+ `subjects.py`) |
+| Anshika | `marks.py` |
+| Palak | `assignments.py` |
+| Riya | `expenses.py` |
 
