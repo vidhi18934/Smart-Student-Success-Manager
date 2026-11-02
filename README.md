@@ -52,7 +52,7 @@ exception handling (try/except), file handling (CSV), modules/imports, sorting w
 |---|---|
 | Vidhi (group leader) | `priority.py`, `main.py`, `storage.py` |
 | Mokshika | `attendance.py` (+ `subjects.py`) |
-| Anshika | `marks.py` |
-| Palak | `assignments.py` |
+| Anshika | `marks.py`, 'utils.py' |
+| Palak | `assignments.py`, 'sample_data.py' |
 | Riya | `expenses.py` |
 
